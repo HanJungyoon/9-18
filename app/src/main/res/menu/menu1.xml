@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="이전" android:id="@+id/before"/>
+    <item android:title="다음" android:id="@+id/after"/>
+</menu>
